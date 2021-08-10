@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(97, 212, 208);
+  background-color: rgb(97,212,208);
 }
 
 @font-face {
@@ -76,7 +76,7 @@ body {
 }
 
 .button {
-  background-color: rgb(52,52,52);
+  background-color: rgb(97,212,208);
   border: none;
   color: white;
   padding: 8px 20px;
