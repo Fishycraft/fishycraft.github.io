@@ -1,2 +1,11 @@
-# fishycraft.github.io
-very cul site yes
+# 💙 Fishycraft's developer website
+
+
+🖊️ <strong>Note:</strong> Please don't just copy everything in this without knowing what your doing!
+   If you want to reuse my site, please give credit. Stealing another man's work
+   isnt right!
+  
+# 🥶👌 Contact me on discord:
+
+
+Fishycraft#0001, please I am lonely :*(
