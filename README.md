@@ -9,3 +9,8 @@
 
 
 Fishycraft#0001, please I am lonely :*(
+
+# 🛑 Strong note
+
+
+I will not provide any support for this project, If you want assitance learn html and/or css.
