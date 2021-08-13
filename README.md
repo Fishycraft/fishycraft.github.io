@@ -14,3 +14,7 @@ Fishycraft#0001, please I am lonely :*(
 
 
 I will not provide any support for this project, If you want assitance learn html and/or css.
+
+# Credits:
+
+Html5up for an amazing template.
